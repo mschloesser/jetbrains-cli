@@ -1,7 +1,6 @@
 # jetbrains-cli gem
 With this tiny Ruby CLI gem you can create new Jetbrains IDE projects in a matter of seconds.
-<pre><code>
-mkdir myproj
+<pre><code>mkdir myproj
 cd myproj
 jetbrains init
 </code></pre>
