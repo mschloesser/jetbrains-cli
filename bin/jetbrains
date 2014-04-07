@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'jetbrains-cli'
+JetbrainsCli.execute(ARGV)
