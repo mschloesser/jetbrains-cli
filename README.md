@@ -4,6 +4,7 @@ With this tiny Ruby CLI gem you can create new Jetbrains IDE projects in a matte
 cd myproj
 jetbrains init
 </code></pre>
+Now you can open `myproj` with the Jetbrains IDE of your choice.
 
 ## FAQ
 
